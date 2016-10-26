@@ -3,7 +3,7 @@ Simple plug-in tabs switching
 
 ##example:
 ```
-<script type="text/javascript" src="sTab.js"></script>
+<script type="text/javascript" src="sTabs.js"></script>
 
 <div id="tabs-box">
 	<ul>
