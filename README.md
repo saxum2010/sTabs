@@ -1,5 +1,5 @@
 # sTabs
-Simple plug-in tabs switching
+Simple jquery plugin tabs switching
 
 ##example:
 ```
