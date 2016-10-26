@@ -19,14 +19,14 @@ Simple plug-in tabs switching
 </div>
 
 <script>
-	$("div").sTabs();
+	$("#tabs-box").sTabs();
 </script>
 ```
 
 ##option:
 
 ```
-$("div").sTabs({
+$("#tabs-box").sTabs({
     liClass: "sTabsLi",
     activeClass: "sTabsLiActive",
     contentClass: "sTabsContent"
