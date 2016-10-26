@@ -1,5 +1,5 @@
 # sTabs
-Simple jquery plugin tabs switching
+Simple jquery tabs switching plugin
 
 ##example:
 ```
@@ -23,7 +23,7 @@ Simple jquery plugin tabs switching
 </script>
 ```
 
-##option:
+##options:
 
 ```
 $("#tabs-box").sTabs({
