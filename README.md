@@ -36,4 +36,3 @@ $("#tabs-box").sTabs({
 - activeClass - class for active li item
 - contentClass - class for tab content item
 
-##[DEMO]{https://jsfiddle.net/6u2aavka/}
