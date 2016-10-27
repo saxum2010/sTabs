@@ -13,7 +13,7 @@ Simple jquery tabs switching plugin
 	<div id="tabContent1">
 		Some text in first tab
 	</div>
-	<div id="tabContent1">
+	<div id="tabContent2">
 		Other text in second tab
 	</div>
 </div>
@@ -35,3 +35,5 @@ $("#tabs-box").sTabs({
 - liClass - class for li items
 - activeClass - class for active li item
 - contentClass - class for tab content item
+
+##[DEMO]{https://jsfiddle.net/6u2aavka/}
